@@ -21,3 +21,17 @@ As recorrentes dificuldades de usabilidade presentes na sessão de acesso à bib
  * Abra ou no Visual e ache a lib, entre na lib e veja a main
  * Ou acesse Project Idx e acesse a main.
 
+   
+**Equipe:**
+
+
+   1.Francielly Ariel Brasil Pinheiro
+
+   2.Marinalva dos Santos
+
+   3.Felipe Cartaxo
+
+   4.Luana Jessica
+
+
+
