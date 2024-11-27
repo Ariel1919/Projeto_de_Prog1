@@ -22,9 +22,7 @@ As recorrentes dificuldades de usabilidade presentes na sessão de acesso à bib
  * Ou acesse Project Idx e acesse a main.
 
    
-**Equipe:**
-
-
+# Equipe:
    1.Francielly Ariel Brasil Pinheiro
 
    2.Marinalva dos Santos
