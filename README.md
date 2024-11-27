@@ -17,3 +17,7 @@ As recorrentes dificuldades de usabilidade presentes na sessão de acesso à bib
     * Email: email123@gmail.com
     * Senha: 123
 # Quer o codigo ? 
+ * Baixe o ProjetoOkAtualizado0.2.zip
+ * Abra ou no Visual e ache a lib, entre na lib e veja a main
+ * Ou entre neste link e veja o codigo bruto da main[https://1drv.ms/w/c/caf5cd0c091e1cb6/ETz7vhjC5oFDnE69cZGpsAIBhWzjmdo1oW2jMVMcVpcEEw?e=xJba0o](url)
+
